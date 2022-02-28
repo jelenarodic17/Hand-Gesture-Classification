@@ -5,6 +5,7 @@ The idea of this project was to record images with Leap Motion Sensor and use th
 I used pretrained layers from VGG16, and added a Dense layer for my specific classification. 
 
 You can find the database on kaggle.
+https://www.kaggle.com/jelenarodic/leap-motion-hand-gesture-dataset
 
 Also, you can find the code to run this simulation live and see how it works with your leap motion sensor.
 
